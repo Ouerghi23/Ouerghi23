@@ -86,16 +86,6 @@
 
 ---
 
-## ☕ Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ouerghishayma" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <i>⭐️ From <a href="https://github.com/ouerghi23">Ouerghi Chaima</a></i>
 </div>
