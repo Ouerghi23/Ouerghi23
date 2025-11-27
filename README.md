@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ouerghi Chaima
-###  Engineering Student | Passionate about Android Development
+###  Engineering Student
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ouerghi23&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
