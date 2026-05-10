@@ -1,8 +1,3 @@
-Voici une version **corrigée, nettoyée et améliorée** de ton README GitHub — plus cohérente, professionnelle, sans doublons, avec une hiérarchie claire, des sections bien structurées, et des liens/visuels propres. Je t’ai aussi légèrement affiné le wording pour un rendu plus impactant.
-
----
-
-```markdown
 <h1 align="center">Hi 👋, I'm Chaima Ouerghi</h1>
 
 <h3 align="center">🚀 Software Engineer | AI, Mobile & Embedded Systems Enthusiast</h3>
