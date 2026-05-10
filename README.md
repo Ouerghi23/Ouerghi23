@@ -14,7 +14,7 @@
 - 🎓 **Software Engineering & Information Systems** (TEKUP)  
 - 🌱 Currently deepening my skills in **DevOps, Cloud (AWS/GCP/Azure)** & **MLOps**  
 - 🤖 Interested in **AI/ML**, **Time-series Anomaly Detection**, **IoT**, and **Network Intelligence**  
-- 📱 Specialized in **Android Development (Kotlin/Java)** with experience in cross-platform (Flutter/React Native)  
+- 📱 Specialized in **Android Development (Java)** with experience in cross-platform (Flutter/React Native)  
 - 🔬 **PFE Project:** *Telecom Complaint Analytics & Network Intelligence Platform* — end-to-end pipeline (ingestion → analytics → anomaly/spike detection → dashboards)
 
 ---
@@ -152,4 +152,3 @@
 </p>
 ```
 
-Souhaites-tu que je te génère aussi une version “minimal + recruiter-friendly” (très concise) ou une version avec des badges “Open to work / PFE seeking internship/partnership”?
