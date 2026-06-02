@@ -90,21 +90,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-### 📡 Telecom Complaint Analytics & Network Intelligence Platform *(PFE)*
-> End-to-end analytics platform for telecom complaint analysis: data ingestion (ETL), KPI correlation, **anomaly/spike detection (Z-score/robust stats)**, explainability, and interactive dashboards (FastAPI + React). Designed with **reproducible pipelines**, **monitoring**, and **deployment-ready** architecture.
-
-### 📱 Smart Attendance Mobile App
-> Real-time facial recognition attendance system (Android + Firebase + ML Kit). Focus: UX, privacy-by-design, offline resilience, and audit trails.
-
-### 🌐 ScholarHub
-> University management platform (inspired by edX): course management, schedules, grades, notifications, role-based access. Built with clean modular architecture and CI/CD.
-
-*(Si tu as des liens de démo/repo, je peux les intégrer en boutons.)*
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
