@@ -90,22 +90,10 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ouerghi23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ouerghi23&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouerghi23&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
-</p>
-
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-```
+
 
