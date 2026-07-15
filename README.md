@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Software Engineering & Information Systems** (TEKUP)  
-- 🌱 Currently deepening my skills in **DevOps, Cloud (AWS/GCP/Azure)** & **MLOps**  
+- 🌱 Currently deepening my skills in **DevOps** & **MLOps**  
 - 🤖 Interested in **AI/ML**, **Time-series Anomaly Detection**, **IoT**, and **Network Intelligence**  
 - 📱 Specialized in **Android Development (Java)** with experience in cross-platform (Flutter/React Native)  
 - 🔬 **PFE Project:** *Telecom Complaint Analytics & Network Intelligence Platform* — end-to-end pipeline (ingestion → analytics → anomaly/spike detection → dashboards)
