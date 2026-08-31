@@ -26,6 +26,7 @@
 | 📧 Email | [shaymaouerghi0@gmail.com](mailto:shaymaouerghi0@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/ouerghi-chaïma](https://www.linkedin.com/in/ouerghi-chaïma/) |
 | 🧑‍💻 GitHub | [github.com/Ouerghi23](https://github.com/Ouerghi23) |
+| 🎖️ Portfolio | [Portfolio-Ouerghi](https://portfolio-ouerghi.vercel.app/) |
 
 ---
 
