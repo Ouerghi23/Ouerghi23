@@ -4,7 +4,7 @@
 
 I'm a Software Engineering and Information Systems Engineer passionate about building intelligent, scalable, and data-driven software solutions. I enjoy combining artificial intelligence, data analytics, and modern software engineering to solve real-world problems.
 
-- 🎓 Software Engineering & Information Systems Engineering — TEK-UP University, **High Honors (Très Bien)**
+- 🎓 Software Engineering & Information Systems Engineering — TEK-UP University
 - 🎓 Bachelor's Degree in Embedded Systems & Mobile Development — ISET Le Kef
 - 🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems
 - 📊 Focused on Data Analytics, Predictive Modeling, and Anomaly Detection
