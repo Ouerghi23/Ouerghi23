@@ -1,117 +1,154 @@
-# Hi, I'm Chaima Ouerghi 👋
+ <h1 align="center">👋 Hi, I'm Chaima Ouerghi</h1>
 
-### Software Engineer | AI & Data | Full-Stack Development
+<h3 align="center">🚀 Software Engineer | 🤖 AI & Data | 💻 Full-Stack Development</h3>
 
-I'm a Software Engineering and Information Systems Engineer passionate about building intelligent, scalable, and data-driven software solutions. I enjoy combining artificial intelligence, data analytics, and modern software engineering to solve real-world problems.
+<p align="center">
+  Building intelligent, scalable, and data-driven software solutions by combining Artificial Intelligence, Data Analytics, and Software Engineering.
+</p>
 
-- 🎓 Software Engineering & Information Systems Engineering — TEK-UP University
-- 🎓 Bachelor's Degree in Embedded Systems & Mobile Development — ISET Le Kef
-- 🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems
-- 📊 Focused on Data Analytics, Predictive Modeling, and Anomaly Detection
-- 💻 Experienced in Full-Stack Development, Backend Engineering, and AI-powered applications
-- 🌍 Open to opportunities in Software Engineering, AI, Data, and Backend Development
+<p align="center">
+  🎓 TEK-UP University &nbsp;•&nbsp; 🤖 AI & Machine Learning &nbsp;•&nbsp; 📊 Data Analytics &nbsp;•&nbsp; 💻 Software Development
+</p>
+
+<p align="center">
+  <a href="mailto:shaymaouerghi0@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">💼 LinkedIn</a> •
+  <a href="https://github.com/Ouerghi23">🧑‍💻 GitHub</a> •
+  <a href="https://portfolio-ouerghi.vercel.app/">🌐 Portfolio</a>
+</p>
 
 ---
 
-## Featured Project
+<h2 align="center">👩‍💻 About Me</h2>
 
-### SpiriCom — AI-Powered Telecom Intelligence Platform
-
-An end-to-end platform developed during my end-of-studies project at **Huawei Technologies Tunisia**, in collaboration with **Ooredoo Tunisia**.
-
-SpiriCom transforms telecom complaints and network performance data into actionable insights through machine learning, natural language processing, and interactive analytics.
-
-**Key capabilities**
-
-- Telecom complaint analytics and classification
-- Predictive modeling and risk analysis
-- Multilingual natural language processing
-- Network anomaly detection
-- Subscriber segmentation
-- Geospatial network intelligence
-- LLM-powered AI assistant
-- Interactive dashboards for network operations teams
-
-**Technology stack**
-
-`Python` `React` `FastAPI` `Scikit-learn` `Pandas` `SQL` `MLflow` `Docker` `NLP` `LLMs`
+<p align="center">
+  🎓 Software Engineering & Information Systems Engineering — TEK-UP University<br/>
+  🎓 Bachelor's Degree in Embedded Systems & Mobile Development — ISET Le Kef<br/>
+  🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems<br/>
+  📊 Focused on Predictive Analytics, Data Science, and Anomaly Detection<br/>
+  💻 Experienced in Full-Stack Development, Backend Engineering, and AI Applications<br/>
+  ☁️ Exploring DevOps, MLOps, Cloud Technologies, and Workflow Automation<br/>
+  🌍 Open to opportunities in Software Engineering, AI, Data, and Backend Development
+</p>
 
 ---
 
-## Technical Skills
+<h2 align="center">🚀 Featured Project</h2>
 
-### Programming Languages
+<h3 align="center">🛰️ SpiriCom — AI-Powered Telecom Intelligence Platform</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C and C++"/>
+<p align="center">
+  Developed during my end-of-studies project at <b>Huawei Technologies Tunisia</b>, in collaboration with <b>Ooredoo Tunisia</b>.
 </p>
 
-### Frontend & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="React, Angular, Node.js, FastAPI, Django and Flask"/>
+<p align="center">
+  An intelligent platform that transforms telecom complaints and network performance data into actionable insights using Machine Learning, NLP, predictive analytics, and interactive dashboards.
 </p>
 
-### AI, Machine Learning & Data
+<h3 align="center">✨ Key Features</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and Scikit-learn"/>
+<p align="center">
+  📊 Telecom Complaint Analytics & Classification<br/>
+  🤖 Predictive Modeling & Risk Analysis<br/>
+  🌐 Multilingual Natural Language Processing<br/>
+  🚨 Network Anomaly Detection<br/>
+  👥 Subscriber Segmentation<br/>
+  🗺️ Geospatial Network Intelligence<br/>
+  💬 LLM-Powered AI Assistant<br/>
+  📈 Interactive Network Operations Dashboards<br/>
+  ⚙️ Data Pipelines & Workflow Automation
 </p>
 
-- **Machine Learning:** Classification, Clustering, Predictive Modeling, Anomaly Detection
-- **AI & NLP:** Large Language Models (LLMs), Text Classification, NLP, AI-powered Applications
-- **Data Science:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis, Feature Engineering
-- **Data Engineering:** ETL Pipelines, Data Processing, SQL, Data Quality
+<h3 align="center">🛠️ Technologies</h3>
 
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, SQLite and Firebase"/>
+<p align="center">
+  <code>Python</code> • <code>React</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Pandas</code><br/>
+  <code>SQL</code> • <code>MLflow</code> • <code>Docker</code> • <code>NLP</code> • <code>LLMs</code>
 </p>
-
-### Cloud, DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Docker, AWS, Git, GitHub, GitLab and Linux"/>
-</p>
-
-- **DevOps:** Docker, Git, GitHub Actions, CI/CD, Linux
-- **MLOps:** MLflow, Model Evaluation, Experiment Tracking
-- **Automation:** n8n, REST APIs, Workflow Integration
-
-### Embedded Systems & IoT
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Arduino, Raspberry Pi and Android"/>
-</p>
-
-Embedded C/C++, STM32, Arduino, Raspberry Pi, OBD-II, and IoT applications.
 
 ---
 
-## Connect With Me
+<h2 align="center">🧰 Technical Skills</h2>
 
-<p>
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Programming Languages"/>
+</p>
+
+<h3 align="center">🌐 Frontend & Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="Frontend and Backend Technologies"/>
+</p>
+
+<h3 align="center">🤖 AI, Machine Learning & Data Science</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and Machine Learning Technologies"/>
+</p>
+
+<p align="center">
+  🧠 Machine Learning • Predictive Modeling • Classification • Clustering<br/>
+  📝 NLP • Large Language Models • Text Classification • AI Applications<br/>
+  📊 Pandas • NumPy • Exploratory Data Analysis • Feature Engineering<br/>
+  🔄 ETL Pipelines • Data Processing • Data Quality • Anomaly Detection
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="Database Technologies"/>
+</p>
+
+<h3 align="center">☁️ Cloud, DevOps & MLOps</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Cloud and DevOps Technologies"/>
+</p>
+
+<p align="center">
+  🐳 Docker • 🔁 CI/CD • ⚙️ GitHub Actions • 🐧 Linux<br/>
+  ☁️ Cloud Technologies • 📈 MLflow • 🧪 Model Evaluation<br/>
+  🔗 n8n • REST APIs • Workflow Automation
+</p>
+
+<h3 align="center">📱 Embedded Systems & IoT</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Embedded Systems and IoT"/>
+</p>
+
+<p align="center">
+  🔌 Embedded C/C++ • STM32 • Arduino • Raspberry Pi<br/>
+  📡 OBD-II • IoT Applications • Mobile Development
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  💬 Interested in AI, Data, Software Engineering, or innovative projects?
+  Let's connect!
+</p>
+
+<p align="center">
   <a href="mailto:shaymaouerghi0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Ouerghi23">
-    <img src="https://img.shields.io/badge/GitHub-Follow-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-ouerghi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=Profile%20Views&color=555555&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=PROFILE+VIEWS&color=555555&style=flat-square" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <i>Building intelligent solutions through software, data, and AI.</i>
-</p>
+<h3 align="center">✨ Building intelligent solutions through Software, Data & AI. ✨</h3>
