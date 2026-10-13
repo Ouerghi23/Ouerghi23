@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 TEK-UP University &nbsp;•&nbsp; 🤖 AI & Machine Learning &nbsp;•&nbsp; 📊 Data Analytics &nbsp;•&nbsp; 💻 Software Development
+  🎓 Software Engineering &nbsp;•&nbsp; 🤖 Artificial Intelligence &nbsp;•&nbsp; 📊 Data Analytics &nbsp;•&nbsp; 💻 Software Development
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
   🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems<br/>
   📊 Focused on Predictive Analytics, Data Science, and Anomaly Detection<br/>
   💻 Experienced in Full-Stack Development, Backend Engineering, and AI Applications<br/>
-  ☁️ Exploring DevOps, MLOps, Cloud Technologies, and Workflow Automation<br/>
+  ☁️ Deepening my skills in DevOps, MLOps, Cloud Technologies, and Workflow Automation<br/>
   🌍 Open to opportunities in Software Engineering, AI, Data, and Backend Development
 </p>
 
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  An intelligent platform that transforms telecom complaints and network performance data into actionable insights using Machine Learning, NLP, predictive analytics, and interactive dashboards.
+  An intelligent platform that transforms telecom complaints and network performance data into actionable insights using Machine Learning, Natural Language Processing, predictive analytics, and interactive dashboards.
 </p>
 
 <h3 align="center">✨ Key Features</h3>
@@ -73,24 +73,24 @@
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C and C++"/>
 </p>
 
 <h3 align="center">🌐 Frontend & Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="Frontend and Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="React, Angular, Node.js, FastAPI, Django and Flask"/>
 </p>
 
 <h3 align="center">🤖 AI, Machine Learning & Data Science</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and Machine Learning Technologies"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and Scikit-learn"/>
 </p>
 
 <p align="center">
   🧠 Machine Learning • Predictive Modeling • Classification • Clustering<br/>
-  📝 NLP • Large Language Models • Text Classification • AI Applications<br/>
+  📝 NLP • Large Language Models (LLMs) • Text Classification • AI Applications<br/>
   📊 Pandas • NumPy • Exploratory Data Analysis • Feature Engineering<br/>
   🔄 ETL Pipelines • Data Processing • Data Quality • Anomaly Detection
 </p>
@@ -98,25 +98,25 @@
 <h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, SQLite and Firebase"/>
 </p>
 
 <h3 align="center">☁️ Cloud, DevOps & MLOps</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Cloud and DevOps Technologies"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Docker, AWS, Git, GitHub, GitLab and Linux"/>
 </p>
 
 <p align="center">
-  🐳 Docker • 🔁 CI/CD • ⚙️ GitHub Actions • 🐧 Linux<br/>
-  ☁️ Cloud Technologies • 📈 MLflow • 🧪 Model Evaluation<br/>
-  🔗 n8n • REST APIs • Workflow Automation
+  🐳 Docker • Git • GitHub Actions • CI/CD • Linux<br/>
+  ☁️ Cloud Technologies • MLflow • Model Evaluation<br/>
+  ⚙️ n8n • REST APIs • Workflow Automation
 </p>
 
 <h3 align="center">📱 Embedded Systems & IoT</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Embedded Systems and IoT"/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Arduino, Raspberry Pi and Android"/>
 </p>
 
 <p align="center">
@@ -129,8 +129,8 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  💬 Interested in AI, Data, Software Engineering, or innovative projects?
-  Let's connect!
+  💬 Interested in AI, Data, Software Engineering, or innovative projects?<br/>
+  Let's connect and build something meaningful together!
 </p>
 
 <p align="center">
@@ -139,6 +139,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Ouerghi23">
+    <img src="https://img.shields.io/badge/GitHub-Follow-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://portfolio-ouerghi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
