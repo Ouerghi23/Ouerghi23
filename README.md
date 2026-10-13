@@ -1,16 +1,17 @@
- <h1 align="center">👋 Hi, I'm Chaima Ouerghi</h1>
+```html
+<h1 align="left">👋 Hi, I'm Chaima Ouerghi</h1>
 
-<h3 align="center">🚀 Software Engineer | 🤖 AI & Data | 💻 Full-Stack Development</h3>
+<h3 align="left">🚀 Software Engineer | 🤖 AI & Data | 💻 Full-Stack Development</h3>
 
-<p align="center">
+<p align="left">
   Building intelligent, scalable, and data-driven software solutions by combining Artificial Intelligence, Data Analytics, and Software Engineering.
 </p>
 
-<p align="center">
+<p align="left">
   🎓 Software Engineering &nbsp;•&nbsp; 🤖 Artificial Intelligence &nbsp;•&nbsp; 📊 Data Analytics &nbsp;•&nbsp; 💻 Software Development
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:shaymaouerghi0@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">💼 LinkedIn</a> •
   <a href="https://github.com/Ouerghi23">🧑‍💻 GitHub</a> •
@@ -19,9 +20,9 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
-<p align="center">
+<p align="left">
   🎓 Software Engineering & Information Systems Engineering — TEK-UP University<br/>
   🎓 Bachelor's Degree in Embedded Systems & Mobile Development — ISET Le Kef<br/>
   🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems<br/>
@@ -33,21 +34,21 @@
 
 ---
 
-<h2 align="center">🚀 Featured Project</h2>
+<h2 align="left">🚀 Featured Project</h2>
 
-<h3 align="center">🛰️ SpiriCom — AI-Powered Telecom Intelligence Platform</h3>
+<h3 align="left">🛰️ SpiriCom — AI-Powered Telecom Intelligence Platform</h3>
 
-<p align="center">
+<p align="left">
   Developed during my end-of-studies project at <b>Huawei Technologies Tunisia</b>, in collaboration with <b>Ooredoo Tunisia</b>.
 </p>
 
-<p align="center">
+<p align="left">
   An intelligent platform that transforms telecom complaints and network performance data into actionable insights using Machine Learning, Natural Language Processing, predictive analytics, and interactive dashboards.
 </p>
 
-<h3 align="center">✨ Key Features</h3>
+<h3 align="left">✨ Key Features</h3>
 
-<p align="center">
+<p align="left">
   📊 Telecom Complaint Analytics & Classification<br/>
   🤖 Predictive Modeling & Risk Analysis<br/>
   🌐 Multilingual Natural Language Processing<br/>
@@ -59,16 +60,17 @@
   ⚙️ Data Pipelines & Workflow Automation
 </p>
 
-<h3 align="center">🛠️ Technologies</h3>
+<h3 align="left">🛠️ Technologies</h3>
 
-<p align="center">
+<p align="left">
   <code>Python</code> • <code>React</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Pandas</code><br/>
   <code>SQL</code> • <code>MLflow</code> • <code>Docker</code> • <code>NLP</code> • <code>LLMs</code>
 </p>
+```
 
 ---
 
-<h2 align="center">🧰 Technical Skills</h2>
+<h2 align="left">🧰 Technical Skills</h2>
 
 <h3 align="center">💻 Programming Languages</h3>
 
@@ -126,9 +128,9 @@
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="left">🤝 Let's Connect</h2>
 
-<p align="center">
+<p align="left">
   💬 Interested in AI, Data, Software Engineering, or innovative projects?<br/>
   Let's connect and build something meaningful together!
 </p>
