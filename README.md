@@ -66,62 +66,61 @@
   <code>Python</code> • <code>React</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Pandas</code><br/>
   <code>SQL</code> • <code>MLflow</code> • <code>Docker</code> • <code>NLP</code> • <code>LLMs</code>
 </p>
-```
 
 ---
 
 <h2 align="left">🧰 Technical Skills</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="left">💻 Programming Languages</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C and C++"/>
 </p>
 
-<h3 align="center">🌐 Frontend & Backend</h3>
+<h3 align="left">🌐 Frontend & Backend</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="React, Angular, Node.js, FastAPI, Django and Flask"/>
 </p>
 
-<h3 align="center">🤖 AI, Machine Learning & Data Science</h3>
+<h3 align="left">🤖 AI, Machine Learning & Data Science</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and Scikit-learn"/>
 </p>
 
-<p align="center">
+<p align="left">
   🧠 Machine Learning • Predictive Modeling • Classification • Clustering<br/>
   📝 NLP • Large Language Models (LLMs) • Text Classification • AI Applications<br/>
   📊 Pandas • NumPy • Exploratory Data Analysis • Feature Engineering<br/>
   🔄 ETL Pipelines • Data Processing • Data Quality • Anomaly Detection
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="left">🗄️ Databases</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, SQLite and Firebase"/>
 </p>
 
-<h3 align="center">☁️ Cloud, DevOps & MLOps</h3>
+<h3 align="left">☁️ Cloud, DevOps & MLOps</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Docker, AWS, Git, GitHub, GitLab and Linux"/>
 </p>
 
-<p align="center">
+<p align="left">
   🐳 Docker • Git • GitHub Actions • CI/CD • Linux<br/>
   ☁️ Cloud Technologies • MLflow • Model Evaluation<br/>
   ⚙️ n8n • REST APIs • Workflow Automation
 </p>
 
-<h3 align="center">📱 Embedded Systems & IoT</h3>
+<h3 align="left">📱 Embedded Systems & IoT</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Arduino, Raspberry Pi and Android"/>
 </p>
 
-<p align="center">
+<p align="left">
   🔌 Embedded C/C++ • STM32 • Arduino • Raspberry Pi<br/>
   📡 OBD-II • IoT Applications • Mobile Development
 </p>
@@ -135,7 +134,7 @@
   Let's connect and build something meaningful together!
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:shaymaouerghi0@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -152,8 +151,9 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=PROFILE+VIEWS&color=555555&style=flat-square" alt="Profile Views"/>
 </p>
 
-<h3 align="center">✨ Building intelligent solutions through Software, Data & AI. ✨</h3>
+<h3 align="left">✨ Building intelligent solutions through Software, Data & AI. ✨</h3>
+```
