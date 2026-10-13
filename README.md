@@ -1,142 +1,117 @@
-<h1 align="center">Hi 👋, I'm Chaima Ouerghi</h1>
+# Hi, I'm Chaima Ouerghi 👋
 
-<h3 align="center">🚀 Software Engineering & Information Systems Engineer | AI & Data | Full-Stack Development</h3>
+### Software Engineer | AI & Data | Full-Stack Development
 
-<p align="center">
-  Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Data Analytics</b>, and <b>Software Engineering</b>.<br/>
-  I enjoy building reliable, data-driven products that combine intelligent systems with modern software technologies.
-</p>
+I'm a Software Engineering and Information Systems Engineer passionate about building intelligent, scalable, and data-driven software solutions. I enjoy combining artificial intelligence, data analytics, and modern software engineering to solve real-world problems.
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 **Software Engineering & Information Systems Engineer** — TEK-UP University, with <b>High Honors (Très Bien)</b>
-- 🎓 Bachelor's Degree in **Embedded Systems & Mobile Development** — ISET Le Kef, with <b>Excellent</b> distinction
-- 🤖 Interested in **AI/ML, NLP, LLMs, Data Analytics, and Intelligent Systems**
-- 💻 Experienced in **Full-Stack & Backend Development**
-- 📊 Interested in **Machine Learning, Predictive Analytics, Anomaly Detection, and Data Engineering**
-- ☁️ Currently deepening my skills in **DevOps, MLOps, and Cloud technologies**
-- 🌐 Open to opportunities in **Software Engineering, Full-Stack, Backend, Data, and AI**
+- 🎓 Software Engineering & Information Systems Engineering — TEK-UP University, **High Honors (Très Bien)**
+- 🎓 Bachelor's Degree in Embedded Systems & Mobile Development — ISET Le Kef
+- 🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems
+- 📊 Focused on Data Analytics, Predictive Modeling, and Anomaly Detection
+- 💻 Experienced in Full-Stack Development, Backend Engineering, and AI-powered applications
+- 🌍 Open to opportunities in Software Engineering, AI, Data, and Backend Development
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🛰️ SpiriCom — AI-Powered Telecom Intelligence Platform
+### SpiriCom — AI-Powered Telecom Intelligence Platform
 
-An end-to-end platform developed during my End-of-Studies Project at **Huawei Technologies Tunisia**, in collaboration with **Ooredoo Tunisia**.
+An end-to-end platform developed during my end-of-studies project at **Huawei Technologies Tunisia**, in collaboration with **Ooredoo Tunisia**.
 
-SpiriCom combines:
+SpiriCom transforms telecom complaints and network performance data into actionable insights through machine learning, natural language processing, and interactive analytics.
 
-- 📊 Telecom complaint analytics
-- 🤖 Machine Learning & predictive analytics
-- 🔎 Multilingual NLP
-- 🚨 Network anomaly detection
-- 🗺️ GIS & geospatial analysis
-- 👥 Subscriber segmentation
-- 💬 LLM-powered AI Assistant
-- ⚙️ Data pipelines & automation
-- 📈 Interactive NOC dashboards
+**Key capabilities**
 
-**Tech:** Python · React · FastAPI · Scikit-learn · Pandas · SQL · MLflow · Docker · NLP · LLMs
+- Telecom complaint analytics and classification
+- Predictive modeling and risk analysis
+- Multilingual natural language processing
+- Network anomaly detection
+- Subscriber segmentation
+- Geospatial network intelligence
+- LLM-powered AI assistant
+- Interactive dashboards for network operations teams
 
----
+**Technology stack**
 
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</p>
-
-### 🌐 Web & Backend
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-</p>
-
-### 🤖 AI / Data Science
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-</p>
-
-**AI & Data:** Machine Learning · NLP · LLMs · Predictive Analytics · Anomaly Detection · Data Analysis · ETL · Feature Engineering
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
-</p>
-
-### ☁️ Cloud, DevOps & MLOps
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</p>
-
-**DevOps:** Git · GitHub Actions · Docker · CI/CD · Linux · Cloud · MLflow
-
-### 📱 Embedded Systems & IoT
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi"/>
-</p>
-
-**Embedded & IoT:** C/C++ · Java · STM32 · Raspberry Pi · Arduino · OBD-II · IoT
+`Python` `React` `FastAPI` `Scikit-learn` `Pandas` `SQL` `MLflow` `Docker` `NLP` `LLMs`
 
 ---
 
-## 📫 Let's Connect
+## Technical Skills
 
-<p align="center">
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C and C++"/>
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="React, Angular, Node.js, FastAPI, Django and Flask"/>
+</p>
+
+### AI, Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and Scikit-learn"/>
+</p>
+
+- **Machine Learning:** Classification, Clustering, Predictive Modeling, Anomaly Detection
+- **AI & NLP:** Large Language Models (LLMs), Text Classification, NLP, AI-powered Applications
+- **Data Science:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis, Feature Engineering
+- **Data Engineering:** ETL Pipelines, Data Processing, SQL, Data Quality
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, SQLite and Firebase"/>
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Docker, AWS, Git, GitHub, GitLab and Linux"/>
+</p>
+
+- **DevOps:** Docker, Git, GitHub Actions, CI/CD, Linux
+- **MLOps:** MLflow, Model Evaluation, Experiment Tracking
+- **Automation:** n8n, REST APIs, Workflow Integration
+
+### Embedded Systems & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Arduino, Raspberry Pi and Android"/>
+</p>
+
+Embedded C/C++, STM32, Arduino, Raspberry Pi, OBD-II, and IoT applications.
+
+---
+
+## Connect With Me
+
+<p>
   <a href="mailto:shaymaouerghi0@gmail.com">
-    📧 Email
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/ouerghi-chaïma/">
-    💼 LinkedIn
+  <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/Ouerghi23">
-    🧑‍💻 GitHub
+    <img src="https://img.shields.io/badge/GitHub-Follow-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp; • &nbsp;
   <a href="https://portfolio-ouerghi.vercel.app/">
-    🎖️ Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=Profile%20Views&color=555555&style=flat-square" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>Building intelligent solutions through software, data, and AI.</i>
 </p>
