@@ -1,159 +1,145 @@
-```html
-<h1 align="left">👋 Hi, I'm Chaima Ouerghi</h1>
+# 👋 Hi, I'm Chaima Ouerghi
 
-<h3 align="left">🚀 Software Engineer | 🤖 AI & Data | 💻 Full-Stack Development</h3>
+**Software Engineer | Artificial Intelligence | Data Engineering | Full-Stack Development**
 
-<p align="left">
-  Building intelligent, scalable, and data-driven software solutions by combining Artificial Intelligence, Data Analytics, and Software Engineering.
-</p>
+I design and develop intelligent software solutions that combine AI, data analytics, and modern software engineering to solve real-world problems.
 
-<p align="left">
-  🎓 Software Engineering &nbsp;•&nbsp; 🤖 Artificial Intelligence &nbsp;•&nbsp; 📊 Data Analytics &nbsp;•&nbsp; 💻 Software Development
-</p>
-
-<p align="left">
-  <a href="mailto:shaymaouerghi0@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">💼 LinkedIn</a> •
-  <a href="https://github.com/Ouerghi23">🧑‍💻 GitHub</a> •
-  <a href="https://portfolio-ouerghi.vercel.app/">🌐 Portfolio</a>
-</p>
+[Email](mailto:shaymaouerghi0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ouerghi-cha%C3%AFma/) · [Portfolio](https://portfolio-ouerghi.vercel.app/) · [GitHub](https://github.com/Ouerghi23)
 
 ---
 
-<h2 align="left">👩‍💻 About Me</h2>
+## About Me
 
-<p align="left">
-  🎓 Software Engineering & Information Systems Engineering — TEK-UP University<br/>
-  🎓 Bachelor's Degree in Embedded Systems & Mobile Development — ISET Le Kef<br/>
-  🤖 Interested in Machine Learning, NLP, LLMs, and Intelligent Systems<br/>
-  📊 Focused on Predictive Analytics, Data Science, and Anomaly Detection<br/>
-  💻 Experienced in Full-Stack Development, Backend Engineering, and AI Applications<br/>
-  ☁️ Deepening my skills in DevOps, MLOps, Cloud Technologies, and Workflow Automation<br/>
-  🌍 Open to opportunities in Software Engineering, AI, Data, and Backend Development
-</p>
+I'm a Software Engineering and Information Systems Engineering graduate from **TEK-UP University**, with a background in embedded systems and mobile development from **ISET Le Kef**.
 
----
+My work and interests focus on building data-driven applications, developing machine learning solutions, and integrating AI into practical software products.
 
-<h2 align="left">🚀 Featured Project</h2>
+- **AI & Machine Learning:** Predictive modeling, NLP, LLM-based applications, and anomaly detection.
+- **Data Engineering & Analytics:** Data processing, feature engineering, ETL pipelines, and interactive dashboards.
+- **Software Engineering:** Full-stack development, backend APIs, database design, and application architecture.
+- **Automation & MLOps:** Workflow automation, model evaluation, Docker, and CI/CD practices.
 
-<h3 align="left">🛰️ SpiriCom — AI-Powered Telecom Intelligence Platform</h3>
-
-<p align="left">
-  Developed during my end-of-studies project at <b>Huawei Technologies Tunisia</b>, in collaboration with <b>Ooredoo Tunisia</b>.
-</p>
-
-<p align="left">
-  An intelligent platform that transforms telecom complaints and network performance data into actionable insights using Machine Learning, Natural Language Processing, predictive analytics, and interactive dashboards.
-</p>
-
-<h3 align="left">✨ Key Features</h3>
-
-<p align="left">
-  📊 Telecom Complaint Analytics & Classification<br/>
-  🤖 Predictive Modeling & Risk Analysis<br/>
-  🌐 Multilingual Natural Language Processing<br/>
-  🚨 Network Anomaly Detection<br/>
-  👥 Subscriber Segmentation<br/>
-  🗺️ Geospatial Network Intelligence<br/>
-  💬 LLM-Powered AI Assistant<br/>
-  📈 Interactive Network Operations Dashboards<br/>
-  ⚙️ Data Pipelines & Workflow Automation
-</p>
-
-<h3 align="left">🛠️ Technologies</h3>
-
-<p align="left">
-  <code>Python</code> • <code>React</code> • <code>FastAPI</code> • <code>Scikit-learn</code> • <code>Pandas</code><br/>
-  <code>SQL</code> • <code>MLflow</code> • <code>Docker</code> • <code>NLP</code> • <code>LLMs</code>
-</p>
+I'm interested in opportunities where I can contribute to software engineering, AI, data, and backend development projects.
 
 ---
 
-<h2 align="left">🧰 Technical Skills</h2>
+## Featured Project
 
-<h3 align="left">💻 Programming Languages</h3>
+### SpiriCom — AI-Powered Telecom Intelligence Platform
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C and C++"/>
-</p>
+*Huawei Technologies Tunisia × Ooredoo Tunisia*
 
-<h3 align="left">🌐 Frontend & Backend</h3>
+An AI-powered platform developed as my final-year engineering project to transform telecommunications complaints and network performance data into actionable operational insights.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="React, Angular, Node.js, FastAPI, Django and Flask"/>
-</p>
+**Key capabilities**
 
-<h3 align="left">🤖 AI, Machine Learning & Data Science</h3>
+- **Complaint Analytics:** Data processing, complaint classification, and NLP-based text analysis.
+- **Predictive Analytics:** Machine learning models for behavioral risk assessment.
+- **Anomaly Detection:** Identification of unusual patterns in network performance indicators.
+- **Subscriber Segmentation:** Clustering techniques to discover behavioral patterns.
+- **Geospatial Intelligence:** Interactive visualization of telecom incidents and regional insights.
+- **AI Assistant:** LLM-powered assistance using structured operational context.
+- **Interactive Dashboards:** Data visualization and decision-support tools for network operations.
+- **Workflow Automation:** Automated handling and notification of urgent complaints.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and Scikit-learn"/>
-</p>
+**Technology stack**
 
-<p align="left">
-  🧠 Machine Learning • Predictive Modeling • Classification • Clustering<br/>
-  📝 NLP • Large Language Models (LLMs) • Text Classification • AI Applications<br/>
-  📊 Pandas • NumPy • Exploratory Data Analysis • Feature Engineering<br/>
-  🔄 ETL Pipelines • Data Processing • Data Quality • Anomaly Detection
-</p>
+`Python` `FastAPI` `React` `Scikit-learn` `Pandas` `SQL` `MLflow` `Docker` `LLMs` `NLP`
 
-<h3 align="left">🗄️ Databases</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, SQLite and Firebase"/>
-</p>
-
-<h3 align="left">☁️ Cloud, DevOps & MLOps</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Docker, AWS, Git, GitHub, GitLab and Linux"/>
-</p>
-
-<p align="left">
-  🐳 Docker • Git • GitHub Actions • CI/CD • Linux<br/>
-  ☁️ Cloud Technologies • MLflow • Model Evaluation<br/>
-  ⚙️ n8n • REST APIs • Workflow Automation
-</p>
-
-<h3 align="left">📱 Embedded Systems & IoT</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Arduino, Raspberry Pi and Android"/>
-</p>
-
-<p align="left">
-  🔌 Embedded C/C++ • STM32 • Arduino • Raspberry Pi<br/>
-  📡 OBD-II • IoT Applications • Mobile Development
-</p>
+The project brings together machine learning, data analytics, backend engineering, and frontend development in a single application.
 
 ---
 
-<h2 align="left">🤝 Let's Connect</h2>
+## Technical Skills
 
-<p align="left">
-  💬 Interested in AI, Data, Software Engineering, or innovative projects?<br/>
-  Let's connect and build something meaningful together!
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" alt="Python, Java, JavaScript, TypeScript, C and C++" />
 </p>
 
-<p align="left">
-  <a href="mailto:shaymaouerghi0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ouerghi-cha%C3%AFma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Ouerghi23">
-    <img src="https://img.shields.io/badge/GitHub-Follow-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://portfolio-ouerghi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+### Frontend & Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,django,flask" alt="React, Angular, Node.js, FastAPI, Django and Flask" />
 </p>
+
+- REST API development and integration
+- Full-stack web application development
+- Backend services and application architecture
+- Responsive interfaces and database integration
+
+### Artificial Intelligence & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV and Scikit-learn" />
+</p>
+
+- Machine Learning: classification, clustering, predictive modeling, and model evaluation
+- Natural Language Processing and text classification
+- Large Language Models and AI-powered applications
+- Data analysis with Pandas and NumPy
+- Exploratory Data Analysis and feature engineering
+- Anomaly detection and behavioral risk analysis
+- Data preprocessing, quality assessment, and ETL pipelines
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="PostgreSQL, MySQL, MongoDB, SQLite and Firebase" />
+</p>
+
+### Cloud, DevOps & MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,linux" alt="Docker, AWS, Git, GitHub, GitLab and Linux" />
+</p>
+
+- Docker and containerized applications
+- Git, GitHub, and GitLab
+- CI/CD and GitHub Actions
+- Linux fundamentals and cloud technologies
+- MLflow and machine learning model evaluation
+- n8n, REST APIs, and workflow automation
+
+### Embedded Systems & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,android" alt="Arduino, Raspberry Pi and Android" />
+</p>
+
+- Embedded C/C++ and STM32
+- Arduino and Raspberry Pi
+- OBD-II and automotive electronics
+- IoT applications and mobile development
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=PROFILE+VIEWS&color=555555&style=flat-square" alt="Profile Views"/>
+## Education
+
+**TEK-UP University**  
+Software Engineering & Information Systems Engineering
+
+**ISET Le Kef**  
+Bachelor's Degree in Embedded Systems & Mobile Development
+
+---
+
+## Let's Connect
+
+I'm always interested in meaningful projects, technical challenges, and opportunities to build useful software with AI and data.
+
+- **Email:** [shaymaouerghi0@gmail.com](mailto:shaymaouerghi0@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ouerghi-cha%C3%AFma/)
+- **Portfolio:** [Explore my work](https://portfolio-ouerghi.vercel.app/)
+- **GitHub:** [@Ouerghi23](https://github.com/Ouerghi23)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ouerghi23&label=PROFILE+VIEWS&color=555555&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">✨ Building intelligent solutions through Software, Data & AI. ✨</h3>
-```
+<p align="center">
+  <sub>Building intelligent solutions through software engineering, data, and AI.</sub>
+</p>
