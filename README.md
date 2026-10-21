@@ -17,8 +17,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Software Engineering & Information Systems Engineering** — TEK-UP University, High Honors (Très Bien)
-- 🎓 **Bachelor's Degree in Embedded Systems & Mobile Development** — ISET Le Kef, Excellent distinction
+- 🎓 **Software Engineering & Information Systems Engineering** — TEK-UP University
+- 🎓 **Bachelor's Degree in Embedded Systems & Mobile Development** — ISET Le Kef
 - 🤖 Interested in Artificial Intelligence, Machine Learning, NLP, LLMs, and intelligent systems
 - 📊 Focused on predictive analytics, data processing, and anomaly detection
 - 💻 Experienced in full-stack development, backend engineering, and AI-powered applications
